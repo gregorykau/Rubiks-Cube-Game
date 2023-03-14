@@ -1,3 +1,6 @@
+# [PLAY IT HERE (IN BROWSER)](https://gregorykau.github.io/Rubiks-Cube-Game/)
+**Remember to unmute! Most browsers will mute by default.**
+
 # Rubik's Cube Game
 ## With [BabylonJS](https://github.com/BabylonJS)
 <div style="width: 100%; text-align: center">
@@ -18,7 +21,6 @@ A simple web-based implementation of the classic Rubik's Cube game using Babylon
 ## Usage:
 - ```http-server``` in the local directory ([install here](https://github.com/http-party/http-server)). A dummy server is used to avoid a CORS violation which would be encountered if directly opening index.html in the browser due to cdnjs script inclusions.
 - Then simply visit localhost:8081 to begin playing.
-- **Remember to unmute! Most browsers will mute by default.**
 
 ## Screenshots:
 
